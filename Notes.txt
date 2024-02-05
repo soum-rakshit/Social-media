@@ -1,0 +1,12 @@
+Packages installed
+express - library
+body-parser - process the request body
+bcrypt - password encryption
+cors - for cross origin request
+dotenv - for environment variables
+gridfs-stream - for file upload
+multer , multer-gridfs-storage - to upload files locally
+helmet - for request safety
+morgan - for login
+jsonwebtoken - for authentication
+mongoose - mongodb access
